@@ -6,19 +6,11 @@
 
 <span align="justify">
 
-## Neste local, você encontrará script de teste de componente (unidade/unitário) utilizando Cypress e Yarn.
+## Neste local, você encontrará script de teste de componente (unidade/unitário) utilizando Cypress, Yarn e Vue Cli.
 
 O JMeter é uma ferramenta que realiza testes de carga e de estresse em recursos estáticos ou dinâmicos oferecidos por sistemas computacionais. Além disso, é parte do projeto Jakarta, da Apache Software Foundation.
 
-Cypress: https://www.cypress.io/  e Yarn: https://yarnpkg.com/
-
-## Informações para replicar o teste:
-
-Utilizar os comandos na raiz do projeto no VsCode ou sua IDE de preferência:
-
-1. npm install -g yarn
-
-2. yarn install
+Cypress: https://www.cypress.io/  , Yarn: https://yarnpkg.com/ e Vue Cli: https://cli.vuejs.org/
 
 
 </span>
