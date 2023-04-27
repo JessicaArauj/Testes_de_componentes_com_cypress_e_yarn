@@ -1,12 +1,12 @@
 <span align="center">
 
-##  *Bem-vindos ao repositório: Testes de componentes utilizando cypress e yarn*
+##  *Bem-vindos ao repositório: Testes de componentes com cypress e yarn!*
 
 </span>
 
 <span align="justify">
 
-## Neste local, você encontrará um script de teste de componente (unidade/unitário) utilizando Cypress e Yarn.
+## Neste local, você encontrará script de teste de componente (unidade/unitário) utilizando Cypress e Yarn.
 
 O JMeter é uma ferramenta que realiza testes de carga e de estresse em recursos estáticos ou dinâmicos oferecidos por sistemas computacionais. Além disso, é parte do projeto Jakarta, da Apache Software Foundation.
 
