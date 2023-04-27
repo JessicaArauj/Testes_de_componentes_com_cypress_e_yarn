@@ -1,5 +1,3 @@
-# Testes_de_componentes_com_cypress_e_yarn
-Repositório de scripts de teste de unidade utilizando cypress e yarn!
 <span align="center">
 
 ##  *Bem-vindos ao repositório: Testes de componentes utilizando cypress e yarn*
