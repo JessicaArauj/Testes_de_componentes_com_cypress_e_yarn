@@ -1,6 +1,6 @@
 <span align="center">
 
-#  *Bem-vindos ao repositório: Testes de componentes com Cypress e Yarn!*
+##  *Bem-vindos ao repositório: Testes de componentes com Cypress e Yarn!*
 
 </span>
 
