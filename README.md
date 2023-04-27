@@ -16,9 +16,9 @@ Cypress: https://www.cypress.io/  e Yarn: https://yarnpkg.com/
 
 Utilizar os comandos na raiz do projeto no VsCode ou sua IDE de preferência:
 
-1. yarn install
+1. npm install -g yarn
 
-2. 
+2. yarn install
 
 
 </span>
