@@ -10,7 +10,7 @@
 
 O JMeter é uma ferramenta que realiza testes de carga e de estresse em recursos estáticos ou dinâmicos oferecidos por sistemas computacionais. Além disso, é parte do projeto Jakarta, da Apache Software Foundation.
 
-Cypress:  e Yarn: https://yarnpkg.com/
+Cypress: https://www.cypress.io/  e Yarn: https://yarnpkg.com/
 
 ## Informações para replicar o teste:
 
